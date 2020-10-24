@@ -6,6 +6,7 @@ An app that matches clothes and recommends the user best combinations taking int
 <li>  Done using CNNs into 5 classes-tshirts, shirts, casual shorts, pants, jackets</li>
 <li>  Dataset link:https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset</li>
 </ul>
+
 ## Clothes Matching:
 <ul>
   <li> Create Dataset of upper body clothing matched with selected pants</li>
